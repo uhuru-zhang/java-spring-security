@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 package bigbank;
-
 /**
  * Note this class does not represent best practice, as we are failing to encapsulate
  * business logic (methods) and state in the domain object. Nevertheless, this demo is
